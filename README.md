@@ -1,5 +1,5 @@
 # Ignite ReactJS - GitHub Explorer
-Primeiro projeto da trilha **Ignite ReactJS** onde aprendemos conceitos básicos da biblioteca.  
+Primeiro projeto da trilha **Ignite ReactJS** onde aprendemos conceitos básicos da biblioteca como componentes, estados, propriedades, hooks e integração do React com o **TypeScript**.  
 É uma aplicação que lista repositórios do GitHub.
 <div>
 <img src="./public/github-explorer.png">
