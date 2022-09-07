@@ -1,0 +1,49 @@
+main {
+    padding: 3rem 1.5rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .container {
+        max-width: 1120px;
+
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+        justify-content: center;
+
+        h2 {
+            color: var(--white);
+        }
+    
+        .repositories-list {
+            list-style: none;
+        
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+        }
+    
+        @media(min-width: 768px) {
+            .repositories-list {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                
+            }
+        }
+    
+        @media(min-width: 1024px) {
+            .repositories-list {
+                display: grid;
+                grid-template-columns: 1fr 1fr 1fr;
+            }
+        }
+    }
+}
+
+@media(min-width: 1024px) {
+    .repository-list {
+        padding: 3rem 5rem;
+    }
+}
