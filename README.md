@@ -10,4 +10,4 @@ Primeiro projeto da trilha **Ignite ReactJS** onde aprendemos conceitos básicos
 <img src="https://github.com/luca-merighi/Techs-Icons/blob/main/react-ts-sass.png?raw=true">
 </div>
 
-### [Link para a Página](https://github-explorer-nine-ecru.vercel.app/ "GitHub Explorer")
+### [Link para a Página](https://ignite-react-js-dtmoney.vercel.app/ "GitHub Explorer")
